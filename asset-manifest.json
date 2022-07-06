@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NicklerFede/tareas-react/static/css/main.9ea11de7.css",
+    "main.js": "/NicklerFede/tareas-react/static/js/main.04f4a704.js",
+    "index.html": "/NicklerFede/tareas-react/index.html",
+    "main.9ea11de7.css.map": "/NicklerFede/tareas-react/static/css/main.9ea11de7.css.map",
+    "main.04f4a704.js.map": "/NicklerFede/tareas-react/static/js/main.04f4a704.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ea11de7.css",
+    "static/js/main.04f4a704.js"
+  ]
+}
